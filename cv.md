@@ -42,7 +42,7 @@ _______________________
 >English (A1)\
 >French (A1)
 _______________________
-# SAMPLE CODE#
+# SAMPLE CODE
 ```
 function show_data_sort() {
       if (abc_sort_open) {
